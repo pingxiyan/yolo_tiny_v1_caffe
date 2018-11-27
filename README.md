@@ -3,8 +3,8 @@
 refer:
   1.https://github.com/pjreddie/darknet
   2.https://raw.githubusercontent.com/pjreddie/darknet/61c9d02ec461e30d55762ec7669d6a1d3c356fb2/cfg/yolov1-tiny.cfg
-  Modification: activation layer "leaky -> relu"
 ~~~
+  Modification: activation layer "leaky -> relu"
 
 # dependency
 
