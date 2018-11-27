@@ -1,4 +1,11 @@
 # yolo_tiny_v1_caffe
+~~~
+	refer:
+	1.
+	2.
+
+	Modification: activation layer "leaky -> relu"
+~~~
 
 # dependency
 
